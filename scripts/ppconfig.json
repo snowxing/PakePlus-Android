@@ -139,7 +139,7 @@
         "name": "zay",
         "showName": "zay",
         "version": "0.0.1",
-        "webUrl": "file:///android_asset/dist/test.html",
+        "webUrl": "file:///android_asset/test.html",
         "id": "com.pakeplus.android",
         "icon": "./app-icon.png",
         "input": "./app-icon.png",
