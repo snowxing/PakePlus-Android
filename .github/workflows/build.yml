@@ -11,6 +11,12 @@ permissions:
     pages: write
     id-token: write
 
+# 新增：定义默认环境变量（可根据你的需求修改）
+env:
+  NAME: "PakePlus-Android"  # 应用名称
+  VERSION: "1.0.0"          # 版本号
+  PUBBODY: "Vue H5 打包的 Android 应用"  # Release 描述
+
 jobs:
     build:
         name: Build APK
@@ -61,11 +67,18 @@ jobs:
                   cd app/build/outputs/apk/debug/
                   mv app-debug.apk ${{ env.NAME }}-v${{ env.VERSION }}.apk
 
+            # 新增：上传 APK 到 Artifacts（解决你看不到下载入口的核心步骤）
+            - name: Upload APK to Artifacts
+              uses: actions/upload-artifact@v4
+              with:
+                  name: android-apk-file  # 下载时显示的文件名
+                  path: app/build/outputs/apk/debug/*.apk  # 匹配所有 APK 文件
+
             - name: Create GitHub Release
               uses: softprops/action-gh-release@v1
               with:
                   files: app/build/outputs/apk/debug/*.apk
-                  tag_name: '${{ env.NAME }}'
+                  tag_name: 'v${{ env.VERSION }}'  # 修正：Tag 名规范（加v前缀）
                   name: '${{ env.NAME }} v${{ env.VERSION }}'
                   body: '${{ env.PUBBODY }}'
                   draft: false
