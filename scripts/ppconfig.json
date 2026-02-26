@@ -1,7 +1,7 @@
 {
-    "name": "",
+    "name": "zay",
     "url": "",
-    "showName": "",
+    "showName": "zay",
     "appid": "",
     "icon": "",
     "iconRound": true,
@@ -136,10 +136,10 @@
         "safeArea": "all"
     },
     "android": {
-        "name": "PakePlus",
-        "showName": "PakePlus5",
+        "name": "zay",
+        "showName": "zay",
         "version": "0.0.1",
-        "webUrl": "https://juejin.cn/",
+        "webUrl": "file:///android_asset/dist/index.html",
         "id": "com.pakeplus.android",
         "icon": "./app-icon.png",
         "input": "./app-icon.png",
