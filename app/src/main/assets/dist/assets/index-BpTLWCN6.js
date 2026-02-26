@@ -1,0 +1,1 @@
+import{aB as e}from"./index-5kp1FiRg.js";async function r(){return e.get("/prose")}async function s(){return e.get("/enbase/get_child_company_list")}async function a(t){return e.get("/tree/get_child",{params:t})}export{a,s as g,r as q};

@@ -1,0 +1,1 @@
+import{_ as o}from"./CourseList.vue_vue_type_script_setup_true_lang-B-7AJEZ3.js";import{d as t,c as r,a,e}from"./index-5kp1FiRg.js";import"./trainingClassList-BlPv_jAa.js";import"./SearchForm.vue_vue_type_script_setup_true_lang-CfpoZqJH.js";const c=t({__name:"index",setup(n){return(p,s)=>(a(),r(o,{course_type:"8"}))}});typeof e=="function"&&e(c);export{c as default};

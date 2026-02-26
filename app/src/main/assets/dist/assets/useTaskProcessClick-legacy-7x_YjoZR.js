@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CK9unWWd.js"],function(t,e){"use strict";var s;return{setters:[t=>{s=t.k}],execute:function(){t("u",function(){const{routerPush:t}=s();return{handleRowClick:function({key:e},s){"add"!==e&&"detail"!==e||t("task-process",s?.id?{task_id:s.id,transid:s.process_inst_id}:{task_id:0,app_id:4})}}})}}});

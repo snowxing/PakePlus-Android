@@ -1,0 +1,1 @@
+import{_ as e}from"./InvsetDetailPanel.vue_vue_type_script_setup_true_lang-B2TR9DXG.js";import{d as t,c as a,a as n,e as o}from"./index-5kp1FiRg.js";import"./Detail-CBGWh8FM.js";/* empty css                                                               */const r=t({__name:"EnvDetail",setup(c){return(p,s)=>(n(),a(e))}});typeof o=="function"&&o(r);export{r as default};

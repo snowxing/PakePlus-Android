@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CK9unWWd.js"],function(e,t){"use strict";var s;return{setters:[e=>{s=e.aB}],execute:function(){e("g",e=>s.get("/Plantarea/get_limited_space_list",{params:e})),e("a",e=>s.get("/enemergency/goods_list",{params:e})),e("b",e=>s.get("/enemergency/goods_get",{params:e}))}}});

@@ -1,0 +1,1 @@
+System.register(["./threeSimultaneous.vue_vue_type_script_setup_true_lang-legacy-uEDuOX4b.js","./index-legacy-CK9unWWd.js","./projectManagement-legacy-Cgs97TKZ.js","./index-legacy-DKq8HLyK.js","./config-legacy-CMljs_xA.js"],function(e,t){"use strict";return{setters:[t=>{t._,e("default",t._)},null,null,null,null],execute:function(){}}});

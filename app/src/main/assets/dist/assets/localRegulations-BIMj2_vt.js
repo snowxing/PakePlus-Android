@@ -1,0 +1,1 @@
+import{_ as e}from"./list.vue_vue_type_script_setup_true_lang-BJoz5fyT.js";import{d as t,c as a,a as c,e as o}from"./index-5kp1FiRg.js";import"./index-DpOfbo4u.js";const n=t({__name:"localRegulations",setup(r){return(s,p)=>(c(),a(e,{type:9}))}});typeof o=="function"&&o(n);export{n as default};

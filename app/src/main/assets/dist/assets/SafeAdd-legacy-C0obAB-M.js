@@ -1,0 +1,1 @@
+System.register(["./InvsetAddPanel-legacy-Bco79GBA.js","./index-legacy-CK9unWWd.js"],function(e,t){"use strict";var n,s,c,a,u;return{setters:[e=>{n=e.I},e=>{s=e.d,c=e.c,a=e.a,u=e.e}],execute:function(){const t=e("default",s({__name:"SafeAdd",setup:e=>(e,t)=>(a(),c(n))}));"function"==typeof u&&u(t)}}});

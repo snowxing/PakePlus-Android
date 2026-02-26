@@ -1,0 +1,1 @@
+import{aB as t}from"./index-5kp1FiRg.js";const o=e=>t.get("/Plantarea/get_limited_space_list",{params:e}),g=e=>t.get("/enemergency/goods_list",{params:e}),a=e=>t.get("/enemergency/goods_get",{params:e});export{g as a,a as b,o as g};

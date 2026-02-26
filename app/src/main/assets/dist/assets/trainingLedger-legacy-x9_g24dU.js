@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CK9unWWd.js"],function(t,e){"use strict";var r;return{setters:[t=>{r=t.aB}],execute:function(){t("g",async function(t){return r.post("/entrain/train_score_list",t)}),t("a",t=>r.get("/entrain/train_record_list",{params:t}))}}});

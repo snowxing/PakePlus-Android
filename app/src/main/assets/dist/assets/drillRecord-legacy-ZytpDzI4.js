@@ -1,0 +1,1 @@
+System.register(["./drillRecord.vue_vue_type_script_setup_true_lang-legacy-NUV4QCAz.js","./index-legacy-CK9unWWd.js","./baoyangManagement-legacy-w2FjIdd7.js","./config-legacy-CMljs_xA.js","./index-legacy-DKq8HLyK.js"],function(e,l){"use strict";return{setters:[l=>{l._,e("default",l._)},null,null,null,null],execute:function(){}}});

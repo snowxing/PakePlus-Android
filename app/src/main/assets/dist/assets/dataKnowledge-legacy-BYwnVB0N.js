@@ -1,0 +1,1 @@
+System.register(["./list.vue_vue_type_script_setup_true_lang-legacy-B-DpoJfQ.js","./index-legacy-CK9unWWd.js","./index-legacy-lCP6nJJd.js"],function(e,t){"use strict";var n,s,u,c,a;return{setters:[e=>{n=e._},e=>{s=e.d,u=e.c,c=e.a,a=e.e},null],execute:function(){const t=e("default",s({__name:"dataKnowledge",setup:e=>(e,t)=>(c(),u(n,{type:13}))}));"function"==typeof a&&a(t)}}});

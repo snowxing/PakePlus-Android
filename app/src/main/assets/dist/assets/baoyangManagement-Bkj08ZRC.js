@@ -1,0 +1,1 @@
+import{aB as t}from"./index-5kp1FiRg.js";async function i(n){return t.get("/Annualplan/drill_plan_list",{params:n})}async function e(n){return t.get("/Enequipment/maintain_list",{params:n})}export{e as a,i as g};

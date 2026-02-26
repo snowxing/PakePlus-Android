@@ -1,0 +1,1 @@
+import{aB as s}from"./index-5kp1FiRg.js";async function e(t){return s.get("/ensafe/safe_norm_list",{params:t})}async function n(t){return s.get("/kpi/index",{params:t})}async function i(t){return s.get("/statistics/report_list",{params:t})}async function a(t){return s.get("/statistics/report_get",{params:t})}export{a,n as k,i as r,e as s};

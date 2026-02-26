@@ -1,0 +1,1 @@
+import{aB as t}from"./index-5kp1FiRg.js";async function s(e){return t.get("/Enequipment/approach_reconstruction_dismantle_list",{params:e})}async function a(e){return t.get("/enbase/three_meanwhile_list",{params:e})}export{a,s as g};

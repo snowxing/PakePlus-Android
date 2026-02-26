@@ -1,0 +1,1 @@
+import{I as o}from"./InvsetAddPanel-BplJkTKN.js";import{d as a,c as t,a as n,e}from"./index-5kp1FiRg.js";const c=a({__name:"SafeAdd",setup(r){return(s,f)=>(n(),t(o))}});typeof e=="function"&&e(c);export{c as default};

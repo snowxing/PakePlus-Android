@@ -1,0 +1,1 @@
+System.register(["./emergencyTeam.vue_vue_type_script_setup_true_lang-legacy-CBwoK1MB.js","./index-legacy-CK9unWWd.js"],function(e,t){"use strict";return{setters:[t=>{t._,e("default",t._)},null],execute:function(){}}});

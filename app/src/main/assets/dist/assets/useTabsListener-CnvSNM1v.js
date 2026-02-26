@@ -1,0 +1,1 @@
+import{aJ as u,aK as i,w as c,aC as f}from"./index-5kp1FiRg.js";function m(n,a){const e=u(),o=i();let s=!1;if(e.currentEvent===n&&(a(e.payload),e.clearEvent(),s=!0),!s){const t=o.value.active;t&&a({name:t})}const r=c(()=>e.currentEvent,t=>{t===n&&(a(e.payload),e.clearEvent())},{immediate:!1});f(()=>{r()})}export{m as u};

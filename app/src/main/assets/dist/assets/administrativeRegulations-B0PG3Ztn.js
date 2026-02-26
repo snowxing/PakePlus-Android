@@ -1,0 +1,1 @@
+import{_ as t}from"./list.vue_vue_type_script_setup_true_lang-BJoz5fyT.js";import{d as o,c as a,a as n,e}from"./index-5kp1FiRg.js";import"./index-DpOfbo4u.js";const r=o({__name:"administrativeRegulations",setup(s){return(c,i)=>(n(),a(t,{type:2}))}});typeof e=="function"&&e(r);export{r as default};

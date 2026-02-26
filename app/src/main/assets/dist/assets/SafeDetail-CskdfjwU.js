@@ -1,0 +1,1 @@
+import{_ as o}from"./InvsetDetailPanel.vue_vue_type_script_setup_true_lang-B2TR9DXG.js";import{d as t,c as a,a as r,e}from"./index-5kp1FiRg.js";import"./Detail-CBGWh8FM.js";/* empty css                                                               */const c=t({__name:"SafeDetail",setup(n){return(p,s)=>(r(),a(o))}});typeof e=="function"&&e(c);export{c as default};

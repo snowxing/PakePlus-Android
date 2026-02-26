@@ -1,0 +1,1 @@
+System.register(["./list.vue_vue_type_script_setup_true_lang-legacy-B-DpoJfQ.js","./index-legacy-CK9unWWd.js","./index-legacy-lCP6nJJd.js"],function(e,t){"use strict";var s,n,u,c,l;return{setters:[e=>{s=e._},e=>{n=e.d,u=e.c,c=e.a,l=e.e},null],execute:function(){const t=e("default",n({__name:"localRegulations",setup:e=>(e,t)=>(c(),u(s,{type:9}))}));"function"==typeof l&&l(t)}}});

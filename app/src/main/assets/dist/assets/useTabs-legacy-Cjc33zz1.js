@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CK9unWWd.js"],function(e,t){"use strict";var u,n;return{setters:[e=>{u=e.r,n=e.bz}],execute:function(){e("u",function(e=[],t){const s=u(e),r=u(t);function a(e,t){s.value=e,r.value=t,n(e,t)}return a(s.value,r.value),{tabs:s,active:r,setTabs:a}})}}});

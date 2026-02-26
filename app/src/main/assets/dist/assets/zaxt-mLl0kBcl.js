@@ -1,0 +1,1 @@
+import{aB as s}from"./index-5kp1FiRg.js";async function n(t){return s.get("/traincourse/my_course",{params:t})}async function a(t){return s.post("/question/get_statistics_data_base",t)}async function o(t){return s.post("/question/get_question_list",t)}export{a,o as b,n as g};

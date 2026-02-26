@@ -1,0 +1,1 @@
+System.register(["./install-legacy-BpR_-QHD.js"],function(e,n){"use strict";var t,i,r,s;return{setters:[e=>{t=e.v,i=e.F,r=e.aD,s=e.aE}],execute:function(){e("c",function(e,n,c){n=t(n)&&{coordDimensions:n}||i({encodeDefine:e.getEncode()},n);var o=e.getSource(),a=r(o,n).dimensions,u=new s(a,e);return u.initData(o,c),u})}}});

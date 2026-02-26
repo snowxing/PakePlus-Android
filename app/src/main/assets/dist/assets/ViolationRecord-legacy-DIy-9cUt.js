@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CK9unWWd.js"],function(e,t){"use strict";var n;return{setters:[e=>{n=e.aB}],execute:function(){e("g",async function(e){return n.get("/ensafe/get_violation_management_list",{params:e})})}}});

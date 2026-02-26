@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CK9unWWd.js"],function(t,a){"use strict";var s;return{setters:[t=>{s=t.aB}],execute:function(){t("g",t=>s.get("/statistics/riskpoint_department_data",{params:t})),t("a",t=>s.get("/statistics/riskpoint_area_data",{params:t})),t("b",t=>s.get("/statistics/riskpoint_level_data",{params:t}))}}});

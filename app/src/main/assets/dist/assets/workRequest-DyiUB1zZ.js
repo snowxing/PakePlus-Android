@@ -1,0 +1,1 @@
+import{aB as r}from"./index-5kp1FiRg.js";async function s(t){return r.get("/formeditor/work_permit_list",{params:t})}async function i(t){return r.get("/task/tpl_list",{params:t})}async function n(t){return r.post("/task/tpl_edit",t)}export{n as a,s as b,i as g};

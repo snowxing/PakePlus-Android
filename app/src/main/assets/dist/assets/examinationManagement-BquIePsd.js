@@ -1,0 +1,1 @@
+import{aB as e}from"./index-5kp1FiRg.js";const a=t=>e.get("/question/get_exam_list",{params:t});async function o(t){return e.get("/question/get_exam_statistical_scores",{params:t})}export{o as a,a as g};

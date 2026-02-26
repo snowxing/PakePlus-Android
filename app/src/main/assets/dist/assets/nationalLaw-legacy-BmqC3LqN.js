@@ -1,0 +1,1 @@
+System.register(["./list.vue_vue_type_script_setup_true_lang-legacy-B-DpoJfQ.js","./index-legacy-CK9unWWd.js","./index-legacy-lCP6nJJd.js"],function(e,t){"use strict";var n,s,u,a,c;return{setters:[e=>{n=e._},e=>{s=e.d,u=e.c,a=e.a,c=e.e},null],execute:function(){const t=e("default",s({__name:"nationalLaw",setup:e=>(e,t)=>(a(),u(n,{type:1}))}));"function"==typeof c&&c(t)}}});

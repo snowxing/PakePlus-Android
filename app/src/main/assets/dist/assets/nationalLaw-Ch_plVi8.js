@@ -1,0 +1,1 @@
+import{_ as a}from"./list.vue_vue_type_script_setup_true_lang-BJoz5fyT.js";import{d as e,c as t,a as n,e as o}from"./index-5kp1FiRg.js";import"./index-DpOfbo4u.js";const c=e({__name:"nationalLaw",setup(r){return(p,s)=>(n(),t(a,{type:1}))}});typeof o=="function"&&o(c);export{c as default};

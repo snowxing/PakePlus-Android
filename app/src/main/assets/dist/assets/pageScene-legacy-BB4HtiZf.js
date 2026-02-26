@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CK9unWWd.js"],function(e,t){"use strict";var s,n;return{setters:[e=>{s=e.as,n=e.r}],execute:function(){e("u",s("pageScene",()=>{const e=n("home");return{pageScene:e,setPageScene:t=>{e.value=t}}},{persist:!0}))}}});

@@ -1,0 +1,1 @@
+System.register(["./hazardLedger.vue_vue_type_script_setup_true_lang-legacy-C0k8Ckzp.js","./index-legacy-CK9unWWd.js","./healthRecord-legacy-BCtFxycv.js","./SearchForm.vue_vue_type_script_setup_true_lang-legacy-yBHHs6Qn.js","./index-legacy-DKq8HLyK.js"],function(e,t){"use strict";return{setters:[t=>{t._,e("default",t._)},null,null,null,null],execute:function(){}}});

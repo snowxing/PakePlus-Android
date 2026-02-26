@@ -1,0 +1,1 @@
+import{_ as a}from"./list.vue_vue_type_script_setup_true_lang-BJoz5fyT.js";import{d as e,c as t,a as c,e as o}from"./index-5kp1FiRg.js";import"./index-DpOfbo4u.js";const n=e({__name:"localStandards",setup(r){return(s,p)=>(c(),t(a,{type:10}))}});typeof o=="function"&&o(n);export{n as default};

@@ -1,0 +1,1 @@
+import{d as a,f as t,o as n,g as r,a as s,e}from"./index-5kp1FiRg.js";const c=a({__name:"index",setup(i){const o=t();return n(()=>{o.replace({name:"task-process",query:{app_id:11,tid:0,hid:0,rid:0,nid:83,param:"",fid:0}})}),(p,d)=>(s(),r("div"))}});typeof e=="function"&&e(c);export{c as default};

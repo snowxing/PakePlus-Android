@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CK9unWWd.js"],function(e,t){"use strict";var n;return{setters:[e=>{n=e.aB}],execute:function(){e({a:async function(e){return n.get("/tree/get_child",{params:e})},g:async function(){return n.get("/enbase/get_child_company_list")},q:async function(){return n.get("/prose")}})}}});

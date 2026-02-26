@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CK9unWWd.js"],function(t,e){"use strict";var s;return{setters:[t=>{s=t.aB}],execute:function(){t({a:async function(t){return s.post("/question/get_statistics_data_base",t)},b:async function(t){return s.post("/question/get_question_list",t)},g:async function(t){return s.get("/traincourse/my_course",{params:t})}})}}});

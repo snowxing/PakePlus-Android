@@ -1,0 +1,1 @@
+import{_ as o}from"./list.vue_vue_type_script_setup_true_lang-BJoz5fyT.js";import{d as a,c as t,a as c,e}from"./index-5kp1FiRg.js";import"./index-DpOfbo4u.js";const n=a({__name:"applicableRegulations",setup(p){return(r,s)=>(c(),t(o,{type:5}))}});typeof e=="function"&&e(n);export{n as default};

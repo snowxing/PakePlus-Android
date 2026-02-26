@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CK9unWWd.js"],function(e,t){"use strict";var n;return{setters:[e=>{n=e.aB}],execute:function(){e({a:async function(e){return n.get("/enbase/three_meanwhile_list",{params:e})},g:async function(e){return n.get("/Enequipment/approach_reconstruction_dismantle_list",{params:e})}})}}});

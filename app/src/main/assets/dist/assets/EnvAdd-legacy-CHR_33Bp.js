@@ -1,0 +1,1 @@
+System.register(["./InvsetAddPanel-legacy-Bco79GBA.js","./index-legacy-CK9unWWd.js"],function(e,t){"use strict";var n,s,c,u,a;return{setters:[e=>{n=e.I},e=>{s=e.d,c=e.c,u=e.a,a=e.e}],execute:function(){const t=e("default",s({__name:"EnvAdd",setup:e=>(e,t)=>(u(),c(n))}));"function"==typeof a&&a(t)}}});

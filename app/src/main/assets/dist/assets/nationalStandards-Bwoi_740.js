@@ -1,0 +1,1 @@
+import{_ as o}from"./list.vue_vue_type_script_setup_true_lang-BJoz5fyT.js";import{d as t,c as e,a as n,e as a}from"./index-5kp1FiRg.js";import"./index-DpOfbo4u.js";const r=t({__name:"nationalStandards",setup(c){return(s,p)=>(n(),e(o,{type:7}))}});typeof a=="function"&&a(r);export{r as default};

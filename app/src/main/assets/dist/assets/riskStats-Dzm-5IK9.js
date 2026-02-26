@@ -1,0 +1,1 @@
+import{aB as a}from"./index-5kp1FiRg.js";const e=t=>a.get("/statistics/riskpoint_department_data",{params:t}),i=t=>a.get("/statistics/riskpoint_area_data",{params:t}),r=t=>a.get("/statistics/riskpoint_level_data",{params:t});export{i as a,r as b,e as g};

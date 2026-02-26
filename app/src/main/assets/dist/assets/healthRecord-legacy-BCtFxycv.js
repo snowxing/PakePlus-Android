@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CK9unWWd.js"],function(t,e){"use strict";var n;return{setters:[t=>{n=t.aB}],execute:function(){t("g",async function(t){return n.post("/Standingbook/get_book_account_data_list",t)})}}});

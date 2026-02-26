@@ -1,0 +1,1 @@
+import{_ as o}from"./list.vue_vue_type_script_setup_true_lang-BJoz5fyT.js";import{d as t,c as a,a as n,e}from"./index-5kp1FiRg.js";import"./index-DpOfbo4u.js";const c=t({__name:"normativeDocuments",setup(r){return(s,m)=>(n(),a(o,{type:11}))}});typeof e=="function"&&e(c);export{c as default};

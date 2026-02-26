@@ -1,0 +1,1 @@
+import{I as o}from"./InvsetAddPanel-BplJkTKN.js";import{d as n,c as t,a,e}from"./index-5kp1FiRg.js";const c=n({__name:"EnvAdd",setup(r){return(s,p)=>(a(),t(o))}});typeof e=="function"&&e(c);export{c as default};

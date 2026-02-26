@@ -1,0 +1,1 @@
+import{k as d}from"./index-5kp1FiRg.js";function c(){const{routerPush:s}=d();function a({key:t},i){(t==="add"||t==="detail")&&s("task-process",i!=null&&i.id?{task_id:i.id,transid:i.process_inst_id}:{task_id:0,app_id:4})}return{handleRowClick:a}}export{c as u};

@@ -1,0 +1,1 @@
+System.register(["./baoyangPlan.vue_vue_type_script_setup_true_lang-legacy-Cw2J8Rtr.js","./index-legacy-CK9unWWd.js","./baoyangManagement-legacy-w2FjIdd7.js","./SearchForm.vue_vue_type_script_setup_true_lang-legacy-Cr1Kuaqf.js","./config-legacy-CMljs_xA.js"],function(e,t){"use strict";return{setters:[t=>{t._,e("default",t._)},null,null,null,null],execute:function(){}}});

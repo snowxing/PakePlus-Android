@@ -1,0 +1,1 @@
+import{v as t,F as c,aD as m,aE as o}from"./install-CoVyZzHx.js";function S(e,a,n){a=t(a)&&{coordDimensions:a}||c({encodeDefine:e.getEncode()},a);var r=e.getSource(),s=m(r,a).dimensions,i=new o(s,e);return i.initData(r,n),i}export{S as c};

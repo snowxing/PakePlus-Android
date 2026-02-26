@@ -1,0 +1,1 @@
+import{_ as e}from"./list.vue_vue_type_script_setup_true_lang-BJoz5fyT.js";import{d as o,c as a,a as n,e as t}from"./index-5kp1FiRg.js";import"./index-DpOfbo4u.js";const r=o({__name:"industryStandards",setup(s){return(c,p)=>(n(),a(e,{type:8}))}});typeof t=="function"&&t(r);export{r as default};

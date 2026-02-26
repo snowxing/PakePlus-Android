@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CK9unWWd.js"],function(n,t){"use strict";var e;return{setters:[n=>{e=n.aB}],execute:function(){n({a:async function(n){return e.get("/Enequipment/maintain_list",{params:n})},g:async function(n){return e.get("/Annualplan/drill_plan_list",{params:n})}})}}});

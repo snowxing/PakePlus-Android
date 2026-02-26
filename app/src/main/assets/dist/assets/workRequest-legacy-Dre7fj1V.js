@@ -1,0 +1,1 @@
+System.register(["./index-legacy-CK9unWWd.js"],function(t,e){"use strict";var r;return{setters:[t=>{r=t.aB}],execute:function(){t({a:async function(t){return r.post("/task/tpl_edit",t)},b:async function(t){return r.get("/formeditor/work_permit_list",{params:t})},g:async function(t){return r.get("/task/tpl_list",{params:t})}})}}});
